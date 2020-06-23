@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP envgen8
+D Electric Druid ENVGEN8 Voltage-controlled Envelope Generator Datasheet
+F https://electricdruid.net/datasheets/ENVGEN8Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
